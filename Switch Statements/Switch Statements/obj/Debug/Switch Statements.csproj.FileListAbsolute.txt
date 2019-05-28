@@ -1,0 +1,6 @@
+C:\Users\Dylan Danowski\source\repos\Switch Statements\Switch Statements\bin\Debug\Switch Statements.exe.config
+C:\Users\Dylan Danowski\source\repos\Switch Statements\Switch Statements\bin\Debug\Switch Statements.exe
+C:\Users\Dylan Danowski\source\repos\Switch Statements\Switch Statements\bin\Debug\Switch Statements.pdb
+C:\Users\Dylan Danowski\source\repos\Switch Statements\Switch Statements\obj\Debug\Switch Statements.csproj.CoreCompileInputs.cache
+C:\Users\Dylan Danowski\source\repos\Switch Statements\Switch Statements\obj\Debug\Switch Statements.exe
+C:\Users\Dylan Danowski\source\repos\Switch Statements\Switch Statements\obj\Debug\Switch Statements.pdb

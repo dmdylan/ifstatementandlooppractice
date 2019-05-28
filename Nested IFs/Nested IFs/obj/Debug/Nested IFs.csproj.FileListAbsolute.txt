@@ -1,0 +1,7 @@
+C:\Users\Dylan Danowski\source\repos\Nested IFs\Nested IFs\bin\Debug\Nested IFs.exe.config
+C:\Users\Dylan Danowski\source\repos\Nested IFs\Nested IFs\bin\Debug\Nested IFs.exe
+C:\Users\Dylan Danowski\source\repos\Nested IFs\Nested IFs\bin\Debug\Nested IFs.pdb
+C:\Users\Dylan Danowski\source\repos\Nested IFs\Nested IFs\obj\Debug\Nested IFs.csproj.CoreCompileInputs.cache
+C:\Users\Dylan Danowski\source\repos\Nested IFs\Nested IFs\obj\Debug\Nested IFs.exe
+C:\Users\Dylan Danowski\source\repos\Nested IFs\Nested IFs\obj\Debug\Nested IFs.pdb
+C:\Users\Dylan Danowski\source\repos\Nested IFs\Nested IFs\obj\Debug\Nested IFs.csprojAssemblyReference.cache
